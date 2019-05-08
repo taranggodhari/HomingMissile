@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{E1887784-A68A-9AF4-55A2-3CE132D5A32D}") = "MissileAttack", "Assembly-CSharp-firstpass.csproj", "{EBFD4231-6CB7-744E-9AFF-5F7598DD92D4}"
+EndProject
+Project("{E1887784-A68A-9AF4-55A2-3CE132D5A32D}") = "MissileAttack", "Assembly-CSharp.csproj", "{297F1B1B-B57C-ABBF-4769-542B9DD32973}"
+EndProject
+Project("{E1887784-A68A-9AF4-55A2-3CE132D5A32D}") = "MissileAttack", "Assembly-CSharp-Editor.csproj", "{B4613E96-75C7-8DB3-688B-0F04680F0D4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBFD4231-6CB7-744E-9AFF-5F7598DD92D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBFD4231-6CB7-744E-9AFF-5F7598DD92D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBFD4231-6CB7-744E-9AFF-5F7598DD92D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBFD4231-6CB7-744E-9AFF-5F7598DD92D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{297F1B1B-B57C-ABBF-4769-542B9DD32973}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{297F1B1B-B57C-ABBF-4769-542B9DD32973}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{297F1B1B-B57C-ABBF-4769-542B9DD32973}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{297F1B1B-B57C-ABBF-4769-542B9DD32973}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4613E96-75C7-8DB3-688B-0F04680F0D4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4613E96-75C7-8DB3-688B-0F04680F0D4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4613E96-75C7-8DB3-688B-0F04680F0D4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4613E96-75C7-8DB3-688B-0F04680F0D4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
